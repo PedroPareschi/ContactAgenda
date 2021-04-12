@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Pedro</first_name>
+	<last_name>Melo</last_name>
+	<phone_number>982187090</phone_number>
+	<notes>tijolo</notes>
+</contact>
+<contact>
+	<first_name>Lucas</first_name>
+	<last_name>Cardoso</last_name>
+	<phone_number>561891561</phone_number>
+	<notes>capeta</notes>
+</contact>
+<contact>
+	<first_name>Daniel</first_name>
+	<last_name>Pareschi</last_name>
+	<phone_number>745787</phone_number>
+	<notes>bob</notes>
+</contact>
+<contact>
+	<first_name>Afrodite</first_name>
+	<last_name>Pareschi</last_name>
+	<phone_number>8787879887</phone_number>
+	<notes>cachorra</notes>
+</contact>
+</contacts>
