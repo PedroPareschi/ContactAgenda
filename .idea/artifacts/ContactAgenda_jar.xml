@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="ContactAgenda:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ContactAgenda_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ContactAgenda.jar">
+        <element id="module-output" name="ContactAgenda" />
+        <element id="dir-copy" path="$USER_HOME$/Documents/lib/javafx-sdk-11.0.2" />
+      </element>
+      <element id="library" level="project" name="javafx-swt" />
+      <element id="file-copy" path="$USER_HOME$/Documents/jlfgr-1.0.jar" />
+    </root>
+  </artifact>
+</component>

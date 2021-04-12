@@ -5,4 +5,5 @@ module ContactAgenda {
     requires java.xml;
 
     opens br.com.pedropareschi.contactAgenda;
+
 }
