@@ -53,6 +53,7 @@ public class ContactData {
         return contacts;
     }
 
+    //PROVIDED BY THE TEACHER
     public void loadContacts() {
         try {
             // First, create a new XMLInputFactory
