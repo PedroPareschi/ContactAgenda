@@ -52,7 +52,7 @@ public class Controller implements Initializable {
     public void showAddContactDialogue() {
         Dialog<ButtonType> dialog = new Dialog<>();
         dialog.initOwner(mainBorderPane.getScene().getWindow());
-        dialog.setTitle("Edit selected contact");
+        dialog.setTitle("Add new contact");
         FXMLLoader loader = new FXMLLoader();
         loader.setLocation(getClass().getResource("addOrEditDialogue.fxml"));
         try {
