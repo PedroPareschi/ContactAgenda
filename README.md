@@ -6,5 +6,6 @@ Small Contact Agenda Project in JAVAFX for the Java Programming MasterClass cour
   It can add, edit, delete and save contacts. The ContactData class was mostly made by the teacher
 
 ![image](https://user-images.githubusercontent.com/81632607/115075722-e7d85500-9ed1-11eb-975f-97fdacc3a550.png)
-![image](https://user-images.githubusercontent.com/81632607/115075833-15bd9980-9ed2-11eb-9767-bfe0863531af.png)
+![image](https://user-images.githubusercontent.com/81632607/115076031-5fa67f80-9ed2-11eb-973e-293fa13b822b.png)
+
 
